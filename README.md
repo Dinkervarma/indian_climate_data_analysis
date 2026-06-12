@@ -1,5 +1,3 @@
-# India Climate Analytics Dashboard
-
 ## Overview
 This project analyzes climate patterns across major Indian cities during 2024–2025 using Python-based data analytics and visualization techniques.
 
@@ -28,4 +26,4 @@ notebooks/
 reports/
 
 ## Author
-Your Name
+Dinker Varma Siruvuri
