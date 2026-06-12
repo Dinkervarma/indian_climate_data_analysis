@@ -26,7 +26,6 @@ This project analyzes climate patterns across major Indian cities during 2024–
 data/
 notebooks/
 reports/
-images/
 
 ## Author
 Your Name
